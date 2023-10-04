@@ -55,7 +55,7 @@ import { portalSigner } from "./portalSigner";
 
 const chain = polygonMumbai;
 const provider = new AlchemyProvider({
-  apiKey: "ALCHEMY_API_KEY",
+  apiKey: process.env.ALCHEMY_API_KEY,
   chain,
   entryPointAddress: ENTRY_POINT_CONTRACT_ADDRESS,
 }).connect(
