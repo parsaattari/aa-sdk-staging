@@ -38,7 +38,7 @@ yarn add @portal-hq/web
 
 ### Create a SmartAccountSigner
 
-Next, setup the Portal sdk and create a `SmartAccountSigner`:
+Next, setup the Portal SDK and create a `SmartAccountSigner`:
 
 <<< @/snippets/portal.ts
 
