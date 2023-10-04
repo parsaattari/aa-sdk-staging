@@ -16,7 +16,7 @@ head:
 
 [Portal](https://www.portalhq.io/) is an embedded blockchain infrastructure company that powers companies with an end to end platform for key management for self-custodial wallets (MPC and AA), security firewall, and web3 protocol connect kit.
 
-A combination of Portal and Account kit allows you to have robust key management and security, while also exploring everything that web3 has to offer with smart contract accounts for your users.
+A combination of Portal and Alchemy's Account Kit allows you to have robust key management and security, while also exploring everything that web3 has to offer with smart contract accounts for your users.
 
 ## Integration
 
