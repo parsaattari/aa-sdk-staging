@@ -22,7 +22,7 @@ A combination of Portal and Alchemy's Account Kit allows you to have robust key 
 
 Check out our developer [docs](https://docs.portalhq.io/) to learn more about Portal. If you want to get quick access to our SDKs, please reach out via [this](https://5g2cefp2j92.typeform.com/portal-labs?typeform-source=www.portalhq.io) form.
 
-### Install the SDK
+### Install the Portal SDK
 
 ::: code-group
 
